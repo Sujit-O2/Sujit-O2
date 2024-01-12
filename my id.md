@@ -2,7 +2,7 @@
 - 👀 I’m interested in every programming language 
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by Gmail id
+- 📫 How to reach me by Gmail id sujitswain077@gmail.com
 
 <!---
 Sujit-O2/Sujit-O2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
