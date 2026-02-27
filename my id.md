@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Sujit-O2
-- 👀 I’m interested in every programming language 
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by Gmail id sujitswain077@gmail.com
+<h2 align="center">🌐 My Portfolio</h2>
 
-<!---
-Sujit-O2/Sujit-O2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://my-portfolio-v7tr-7yblhc5we-sujit-o2s-projects.vercel.app/">
+    <img src="https://api.microlink.io/?url=https://my-portfolio-v7tr-7yblhc5we-sujit-o2s-projects.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="800"/>
+  </a>
+</p>
